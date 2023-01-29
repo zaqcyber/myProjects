@@ -1,0 +1,161 @@
+p,h1,h2,h3,h4,img,button,div,ul,li{
+    margin: 0px;
+    padding: 0px;
+}
+.nav-link{
+    color: hsl(236, 13%, 42%);
+}
+
+.nav-link:hover{
+    color: hsl(35, 77%, 62%);
+}
+
+.test{
+    background-image: url('./images/image-web-3-desktop.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 300px;
+}
+
+#test2 h1{
+    font-size: 3rem;
+}
+
+#test3 button{
+    margin-top: 30px;
+    width: 150px;
+    height: 50px;
+    background-color: hsl(5, 85%, 63%);
+    color: #fff;
+    border: 0px;
+}
+
+#test3 button:hover{
+    background-color: #000;
+    color: hsl(233, 8%, 79%);
+}
+
+.test-content{
+    margin-top: 10px;
+}
+
+ #test2{
+    display: inline;
+    float: left;
+    width: 48%;
+}
+#test3{
+    display: inline;
+    width: 50%;
+    float: right;
+} 
+
+#test3 p{
+    color: hsl(236, 13%, 42%);
+}
+
+.check{
+    background-color: #000;
+    height: 470px;
+    padding-top: 20px;
+}
+p{
+    font-size: 15px;
+    font-family: 'Inter', sans-serif;
+    color: hsl(233, 8%, 79%);
+}
+
+hr{
+    border: 1px solid #fff;
+}
+
+h1{
+    font-family: 'Inter', sans-serif;
+    font-weight: 800;
+    font-size: 2rem;
+}
+
+h2{
+    font-family: 'Inter', sans-serif;
+    font-weight: 700;
+    font-size: 1rem;
+    color: #fff;
+}
+
+.check h2:hover{
+    color: hsl(35, 77%, 62%);
+    cursor: pointer;
+}
+
+.new{
+    color: hsl(35, 77%, 62%);
+    margin-left: 30px;
+}
+
+.content{
+    margin: 30px 30px;
+}
+
+.body-content{
+    margin-top: 20px;
+}
+
+.foot-content{
+    margin-top: 30px;
+}
+.foot1{
+    height: 200px;
+}
+
+.foot-img{
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 38%;
+    float: left;
+    display: inline;
+    margin-right: 2%;
+}
+
+#foot1-img{
+    background-image: url('./images/image-retro-pcs.jpg');  
+}
+
+#foot2-img{
+    background-image: url('./images/image-top-laptops.jpg'); 
+}
+
+#foot3-img{
+    background-image: url('./images/image-gaming-growth.jpg');
+}
+.foot-text{
+    width: 60%;
+    display: inline;
+    float: right;
+}
+
+.foot h1{
+    color: hsl(236, 13%, 42%);
+    margin-bottom: 10px;
+}
+
+.foot h2{
+    color: #000;
+    margin-bottom: 10px;
+    font-size: 1rem;
+}
+
+.foot h2:hover{
+    color: hsl(5, 85%, 63%);
+    cursor: pointer;
+}
+
+.navbar-collapse{
+    text-align: center;
+}
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { 
+    color: hsl(228, 45%, 44%);
+    text-decoration: none; 
+}
