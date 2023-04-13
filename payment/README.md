@@ -1,1 +1,1 @@
-demo link.....https://aesthetic-smakager-a56bd6.netlify.app
+demo link..... https://zaqcyber.github.io/myProjects/payment
